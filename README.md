@@ -1,4 +1,5 @@
 # 🎓 ASEI Student Resource Hub (Unofficial)
+!![ASEI Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmy15jf0reA2kJawqHvhkSOBJz9Vh4nf9d4l2DKbnouZkY7BIV2GB-oNE&s=10)
 
 **Bridging Hong Kong & Shenzhen Campuses — Built by Seniors, For Students.**
 
