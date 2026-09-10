@@ -25,7 +25,6 @@ Instead of letting hard-earned insights disappear after graduation, we consolida
 | :--- | :--- |
 | **Course Materials** | Aggregated lecture summaries, lab walkthroughs, recitation notes, and project references from past semesters. |
 | **Campus-Specific Content** | Clear labels distinguishing **Hong Kong (HK)** vs. **Shenzhen (SZ)** campus versions, as curricula and lab equipment may differ. |
-| **Student Evaluations & Tips** | Honest, anonymous peer reviews covering course difficulty, exam traps, professor communication styles, and practical "what I wish I knew" advice. |
 
 ---
 
@@ -89,4 +88,4 @@ For questions, takedown requests, or contribution guidelines, please open an **I
 
 ---
 
-*Last Updated: July 2026*  
+*Last Updated: Sept 2026*  
